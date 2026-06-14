@@ -154,3 +154,29 @@ POST   /api/doctors
 GET    /api/appointments
 POST   /api/appointments
 ```
+
+## 📸 Screenshots
+
+Project screenshots are available in:
+
+```
+Screenshots/
+```
+
+## 🔮 Future Enhancements
+
+- Online doctor consultation
+- Payment integration
+- Admin dashboard
+- Email/SMS appointment alerts
+- Cloud deployment
+- Mobile application
+
+## 👨‍💻 Developer
+
+**Prathamesh V Shenoy**
+
+## ⭐ Project Status
+
+Completed Full Stack Hospital Management System.
+
